@@ -1,0 +1,7 @@
+“Adding ingredients”
+milk
+flour
+butter
+egges
+sugar
+“Adding the cake recipe”
